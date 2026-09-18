@@ -1,0 +1,1 @@
+-- Built-in Obsidian theme is registered in ARIO.lua.

@@ -1,0 +1,1 @@
+-- Built-in Midnight theme is registered in ARIO.lua.

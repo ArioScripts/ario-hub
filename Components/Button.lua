@@ -1,0 +1,2 @@
+-- Button implementation is currently contained in ARIO.lua.
+-- See README.md and Examples/Example.lua.

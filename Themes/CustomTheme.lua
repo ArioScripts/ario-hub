@@ -1,0 +1,14 @@
+-- Example custom theme.
+-- Register it before CreateWindow:
+--
+-- Ario:RegisterTheme("MyBlue", {
+--     Background = Color3.fromRGB(8, 12, 20),
+--     Surface = Color3.fromRGB(15, 22, 35),
+--     Surface2 = Color3.fromRGB(23, 34, 52),
+--     Border = Color3.fromRGB(45, 75, 110),
+--     Text = Color3.fromRGB(245, 250, 255),
+--     Muted = Color3.fromRGB(145, 165, 185),
+--     Accent = Color3.fromRGB(45, 135, 255),
+--     Success = Color3.fromRGB(70, 210, 135),
+--     Danger = Color3.fromRGB(240, 80, 90),
+-- })

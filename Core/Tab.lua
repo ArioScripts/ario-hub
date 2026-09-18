@@ -1,0 +1,1 @@
+-- Tab core is contained in ARIO.lua for easy remote loading.
